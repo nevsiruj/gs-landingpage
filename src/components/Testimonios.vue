@@ -18,7 +18,7 @@
               shadow-lg
               p-6
               text-center
-              animate__animated animate__fadeIn
+              animate__animated animate__fadeInLeft
             "
           >
             <p class="text-gray-200 text-lg mb-4">
@@ -38,7 +38,7 @@
               shadow-lg
               p-6
               text-center
-              animate__animated animate__fadeIn
+              animate__animated animate__fadeInRight
             "
           >
             <p class="text-gray-200 text-lg mb-4">
@@ -58,7 +58,7 @@
               shadow-lg
               p-6
               text-center
-              animate__animated animate__fadeIn
+              animate__animated animate__fadeInLeft
             "
           >
             <p class="text-gray-200 text-lg mb-4">

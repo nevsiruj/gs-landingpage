@@ -1,7 +1,15 @@
 <template>
   <section class="bg-white w-full py-16" id="services">
     <div class="container mx-auto">
-      <h2 class="text-3xl font-bold text-gray-900 text-center mb-8">
+      <h2
+        class="
+          text-3xl
+          font-bold
+          text-gray-900 text-center
+          mb-8
+          animate__animated animate__fadeInUp
+        "
+      >
         Servicios
       </h2>
       <div class="flex flex-wrap justify-between">
@@ -19,6 +27,7 @@
               transform
               hover:scale-105
               shadow-md
+              animate__animated animate__fadeInRight
             "
           >
             <h3 class="text-xl font-bold mb-4 text-white">
@@ -44,6 +53,7 @@
               transform
               hover:scale-105
               shadow-md
+              animate__animated animate__fadeInLeft
             "
           >
             <h3 class="text-xl font-bold mb-4 text-white">
@@ -69,6 +79,7 @@
               transform
               hover:scale-105
               shadow-md
+              animate__animated animate__fadeInRight
             "
           >
             <h3 class="text-xl font-bold mb-4 text-white">Desarrollo Móvil</h3>
